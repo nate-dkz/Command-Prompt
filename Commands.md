@@ -1,9 +1,5 @@
 # Introduction
-This file is a centralised collection of Command Prompt (MS-DOS) commands that I have found to be useful. I have gathered these commands in one place as a reference point to refer back to whenever I need them as  as it allows me to quickly look up and use the commands that I need, rather than having to remember them all or search for them each time I need them.
-
-As I learn new commands, I will add them to this file so that it can serve as a comprehensive reference point. This will allow me to easily refer back to all of the commands that I have found useful, and it will also allow me to build up a collection of commands that I can use to solve various problems or accomplish various tasks.
-
-By continuously adding to this file, I hope to create a valuable resource that I can use to streamline my work and increase my productivity.
+This file contains a collection of Command Prompt (MS-DOS) commands that I have found to be useful. I have gathered these commands in one place as a reference point to refer back to whenever I need them.
 
 <details>
 <summary><b><font size="+1">System</font></b></summary>
@@ -123,7 +119,7 @@ Obtains domain name or IP address mapping for the supplied host. The type=mx opt
 
 ``nslookup -type=mx <host>``
 
-Displays the MAC address, adapter name, and transport name for each network adapter on the computer
+Displays the MAC address, adapter name, and transport name for each network adapter on the computer.
 
 ``getmac -v``
 
