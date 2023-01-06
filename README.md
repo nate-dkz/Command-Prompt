@@ -5,7 +5,7 @@ As I learn new commands, I will add them to this repository so that it can serve
 
 By continuously adding to this file, I hope to create a valuable resource that I can use to streamline my work and increase my productivity.
 
-<span style="background-color: #7e8282">**Note:** I use PowerShell exclusively but there have been times when PowerShell has not been available and I have had to revert to using Command Prompt, hence why I am storing this collection here as a reference point.</span>
+**Note:** I use PowerShell exclusively but there have been times when PowerShell has not been available and I have had to revert to using Command Prompt, hence why I am storing this collection here as a reference point.
 
 Feel free to browse through and use any of the commands that you find useful. If you have any questions or suggestions, don't hesitate to contact me.
 
